@@ -10,7 +10,7 @@ Exemplo:
 
 **$ git config –global user.email “Seu email”**
 
-### 2. git init.
+### 2. git init
 
 Esse é o comando que você irá utilizar para criar um novo projeto de git. O comando irá criar um repositório novo em branco e, a partir daí, será possível armazenar seu código fonte, alterar, salvaguardar alterações etc.
 
